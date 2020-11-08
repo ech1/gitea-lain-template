@@ -14,7 +14,7 @@ c.height = my_height;
 c.width = my_width;
 
 //latin characters - taken from the unicode charset
-var matrix = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789@#$%^&*()*&^%+-/~{[|`]}";
+var matrix = "ろぬふあうえおやゆよわほぺ゛せらになんかすいてたちとしはきくまのりれけめるねもみこひそさつむむ@#$%^&*()*&^%+-/~{[|`]}";
 //converting the string into an array of single characters
 matrix = matrix.split("");
 
