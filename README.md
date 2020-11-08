@@ -13,8 +13,8 @@
 4. Add folowing lines to your gitea config:
 ```ini
 [ui]
-THEMES = gitea,arc-green,matrix
-DEFAULT_THEME = matrix
+THEMES = gitea,arc-green,lain
+DEFAULT_THEME = lain
 ```
 5. Restart your Gitea Service and you are ready to go.
 ### Welcome to the matrix!
