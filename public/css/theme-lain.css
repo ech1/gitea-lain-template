@@ -1,7 +1,7 @@
 @import url('theme-arc-green.css');
 
 .gitea-matrix-active-color {
-  color: #83f20d
+  color: #D1CC73
 }
 
 .gitea-matrix-primary-color {
@@ -19,12 +19,12 @@
 
 .markdown:not(code) table tr {
   background-color: #000;
-  border-top: 1px solid #83f20d;
+  border-top: 1px solid #D1CC73;
 }
 
 .markdown:not(code) table td, .markdown:not(code) table th {
   padding: 6px 13px !important;
-  border: 1px solid #83f20d !important;
+  border: 1px solid #D1CC73 !important;
   background-color:
     black;
 }
@@ -76,7 +76,7 @@ a {
   border: none;
   border-radius: .28571429rem;
   -webkit-box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
-  box-shadow: 0 1px 3px 0 #33fd00, 0 0 0 1px #83f20d;
+  box-shadow: 0 1px 3px 0 #33fd00, 0 0 0 1px #D1CC73;
   -webkit-transition: -webkit-box-shadow .1s ease, -webkit-transform .1s ease;
   transition: -webkit-box-shadow .1s ease, -webkit-transform .1s ease;
   transition: box-shadow .1s ease, transform .1s ease;
@@ -210,7 +210,7 @@ a {
   max-width: calc(100% + 2px);
   -webkit-box-shadow: none;
   box-shadow: none;
-  border: 1px solid #83f20d;
+  border: 1px solid #D1CC73;
   border-top-color: rgb(131, 242, 13);
   border-top-style: solid;
   border-top-width: 1px;
@@ -218,11 +218,11 @@ a {
 
 .ui.top.attached.header {
   border-radius: .28571429rem .28571429rem 0 0;
-  border: 1px solid #83f20d;
+  border: 1px solid #D1CC73;
 }
 
 .feeds .list ul li:not(:last-child) {
-  border: 1px solid #83f20d;
+  border: 1px solid #D1CC73;
 }
 
 .ui.attached.table {
@@ -234,7 +234,7 @@ a {
   max-width: calc(100% + 2px);
   -webkit-box-shadow: none;
   box-shadow: none;
-  border: 1px solid #83f20d;
+  border: 1px solid #D1CC73;
   border-top-color: rgb(131, 242, 13);
   border-top-style: solid;
   border-top-width: 1px;
@@ -516,7 +516,7 @@ a:hover {
 }
 
 .ui.checkbox label, .ui.checkbox+label {
-  color: #83f20d;
+  color: #D1CC73;
   -webkit-transition: color .1s ease;
   transition: color .1s ease;
 }
@@ -758,7 +758,7 @@ a:hover {
 }
 
 .repository .ui.segment.sub-menu .list .item a {
-  color: #83f20d;
+  color: #D1CC73;
 }
 
 .ui.table {
@@ -937,7 +937,7 @@ a:hover {
 }
 
 .ui.secondary.menu .active.item {
-  color: #83f20d !important
+  color: #D1CC73 !important
 }
 
 .ui.secondary.menu .item {
@@ -945,7 +945,7 @@ a:hover {
 }
 
 .ui.secondary.menu .active.item:hover, .ui.secondary.menu .dropdown.item:hover, .ui.secondary.menu .link.item:hover, .ui.secondary.menu a.item:hover {
-  color: #83f20d !important
+  color: #D1CC73 !important
 }
 
 .brand-logo {
@@ -954,21 +954,21 @@ a:hover {
 
 body {
   background-color: black !important;
-  color: #83f20d !important;
+  color: #D1CC73 !important;
 }
 
 .following.bar.light {
   background-color: black;
-  border-bottom: 1px solid #83f20d !important;
+  border-bottom: 1px solid #D1CC73 !important;
   box-shadow: 0 2px 3px rgba(0, 0, 0, .04)
 }
 
 footer {
   background-color: black !important;
-  border-top: 1px solid #83f20d !important;
+  border-top: 1px solid #D1CC73 !important;
   width: 100%;
   flex-basis: 40px;
-  color: #83f20d
+  color: #D1CC73
 }
 
 .ui.secondary.menu {
