@@ -305,14 +305,14 @@ a:hover {
 }
 
 .ui.blue.button, .ui.blue.buttons .button {
-  background-color: #ede21f;
+  background-color: #874A5B;
   color: #fff;
   text-shadow: none;
   background-image: none;
 }
 
 .ui.blue.button:hover, .ui.blue.buttons .button:hover {
-  background-color: #ede21f;
+  background-color: #874A5B;
   color: #fff;
   text-shadow: none;
 }
