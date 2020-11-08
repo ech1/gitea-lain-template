@@ -71,7 +71,7 @@ a {
   width: 290px;
   min-height: 0;
   background:
-    #545454;
+  #29161c;
   padding: 0;
   border: none;
   border-radius: .28571429rem;
@@ -113,7 +113,7 @@ a {
   font-size: 1em;
   border-radius: 0;
   border-bottom:
-    #0dd919;
+    #ede21f;
 }
 
 .ui.card>.extra a:not(.ui), .ui.cards>.card>.extra a:not(.ui) {
@@ -125,7 +125,7 @@ a {
   padding: 10px;
   list-style: none;
   color:
-    #31fd00;
+    #ede21f;
 }
 
 .ui.card>.extra, .ui.cards>.card>.extra {
@@ -154,7 +154,7 @@ a {
   margin-left: 1px;
   margin-right: 5px;
   color:
-    #33fd00;
+    #ede21f;
 }
 
 .ui.card>.extra a:not(.ui):hover, .ui.cards>.card>.extra a:not(.ui):hover {
@@ -163,24 +163,24 @@ a {
 }
 
 .user.profile .ui.card .extra.content ul li:not(:last-child) {
-  border-bottom: 1px solid #0dd919;
+  border-bottom: 1px solid #ede21f;
 }
 
 .ui.repository.list .item:not(:first-child) {
-  border-top: 1px solid #33e319;
+  border-top: 1px solid #ede21f;
   padding-top: 25px;
 }
 
 .ui.basic.blue.button, .ui.basic.blue.buttons .button {
-  box-shadow: inset 0 0 0 1px #17d214 !important;
-  color: #17d214 !important;
+  box-shadow: inset 0 0 0 1px #ede21f !important;
+  color: #ede21f !important;
 }
 
 .markdown:not(code) h1 {
   padding-bottom: .3em;
   font-size: 2.25em;
   line-height: 1.2;
-  border-bottom: 1px solid #44c90d;
+  border-bottom: 1px solid #ede21f;
 }
 
 .markdown:not(code) h2 {
@@ -241,15 +241,15 @@ a {
 }
 
 .feeds .list ul li a .octicon {
-  color: #229e33;
+  color: #ede21f;
 }
 
 .ui .text.light.grey {
-  color: #66c74b !important;
+  color: #ede21f !important;
 }
 
 a:hover {
-  color: #099029;
+  color: #ede21f;
   text-decoration: none;
 }
 
@@ -261,26 +261,26 @@ a:hover {
 }
 
 .ui.breadcrumb a {
-  color: #03a900;
+  color: #ede21f;
 }
 
 .repository.file.list #repo-files-table tbody .octicon.octicon-file-directory, .repository.file.list #repo-files-table tbody .octicon.octicon-file-submodule, .repository.file.list #repo-files-table tbody .octicon.octicon-file-symlink-directory {
-  color: #21ba45;
+  color: #ede21f;
 }
 
 .repository.file.list #repo-files-table tbody .octicon {
   margin-left: 3px;
   margin-right: 5px;
-  color: #319000;
+  color: #ede21f;
 }
 
 .repository.file.list #repo-files-table .jumpable-path {
-  color: #008e04;
+  color: #ede21f;
 }
 
 .ui.blue.labels .label, .ui.ui.ui.blue.label {
-  background-color: #299a0d;
-  border-color: #299a0d;
+  background-color: #ede21f;
+  border-color: #ede21f;
   color: #fff;
 }
 
@@ -297,22 +297,22 @@ a:hover {
 
 .ui.repository.list .item .time {
   font-size: 12px;
-  color: #04ff00;
+  color: #ede21f;
 }
 
 .ui .text.grey {
-  color: #1baf49 !important;
+  color: #ede21f !important;
 }
 
 .ui.blue.button, .ui.blue.buttons .button {
-  background-color: #21ba45;
+  background-color: #ede21f;
   color: #fff;
   text-shadow: none;
   background-image: none;
 }
 
 .ui.blue.button:hover, .ui.blue.buttons .button:hover {
-  background-color: #319026;
+  background-color: #ede21f;
   color: #fff;
   text-shadow: none;
 }
@@ -322,16 +322,16 @@ a:hover {
 }
 
 .ui.checkbox label:hover::before {
-  background: #21ba45;
+  background: #ede21f;
   border-color: rgba(30, 17, 20, 1);
 }
 
 .ui.checkbox label:hover, .ui.checkbox+label:hover {
-  color: #21ba45;
+  color: #ede21f;
 }
 
 .ui.radio.checkbox input:checked~label:after {
-  background-color: #21ba45;
+  background-color: #ede21f;
 }
 
 .ui.form textarea, .ui.input textarea {
@@ -364,7 +364,7 @@ a:hover {
   transform: rotateZ(0);
   min-width: 14em;
   min-height: 2.71428571em;
-  background: #545454;
+  background: #29161c;
   display: inline-block;
   padding: .78571429em 3.2em .78571429em 1em;
   color: rgb(209, 204, 115);
@@ -389,7 +389,7 @@ a:hover {
   min-width: max-content;
   margin: 0;
   padding: 0 0;
-  background: #545454;
+  background: #29161c;
   font-size: 1em;
   text-shadow: none;
   text-align: left;
@@ -449,7 +449,7 @@ a:hover {
 .ui.menu .dropdown.item .menu {
   min-width: calc(100% - 1px);
   border-radius: 0 0 .28571429rem .28571429rem;
-  background: #545454;
+  background: #29161c;
   margin: 0 0 0;
   -webkit-box-shadow: 0 1px 3px 0 rgba(30, 17, 20, .08);
   box-shadow: 0 1px 3px 0 rgba(30, 17, 20, .08);
@@ -550,7 +550,7 @@ a:hover {
   opacity: .7;
   margin: 0 .21428571rem 0;
   font-size: .92857143em;
-  color: #17d214;
+  color: #ede21f;
   vertical-align: baseline;
 }
 
@@ -743,7 +743,7 @@ a:hover {
 }
 
 .ui.tabular.menu .item {
-  color: rgba(6, 245, 47, 0.98);
+  color: rgba(237, 226, 31, 0.98);
 }
 
 .ui.segment {
@@ -816,7 +816,7 @@ a:hover {
 }
 
 .ui.tabular.menu .item:hover {
-  color: rgba(6, 239, 142, 0.8);
+  color: rgba(237, 226, 31, 0.8);
 }
 
 .ui.message {
