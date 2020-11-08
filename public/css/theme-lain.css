@@ -953,18 +953,18 @@ a:hover {
 }
 
 body {
-  background-color: #1E1114 !important;
+  background-color: #29161c !important;
   color: #D1CC73 !important;
 }
 
 .following.bar.light {
-  background-color: #1E1114;
+  background-color: #29161c;
   border-bottom: 1px solid #D1CC73 !important;
   box-shadow: 0 2px 3px rgba(41, 22, 28, .04)
 }
 
 footer {
-  background-color: #1E1114 !important;
+  background-color: #29161c !important;
   border-top: 1px solid #D1CC73 !important;
   width: 100%;
   flex-basis: 40px;
@@ -972,11 +972,11 @@ footer {
 }
 
 .ui.secondary.menu {
-  background-color: #1E1114 !important;
+  background-color: #29161c !important;
 }
 
 .footer {
-  background: #1E1114 !important;
+  background: #29161c !important;
   border-top: 1px solid #29161c;
   position: relative;
   margin-bottom: 0px
@@ -989,11 +989,11 @@ footer {
 }
 
 .ui.attached {
-  background: #1E1114 !important;
+  background: #29161c !important;
 }
 
 .badge {
-  background: #1E1114 !important;
+  background: #29161c !important;
   border-color: #BE8896 !important;
   border-style: solid;
 }
