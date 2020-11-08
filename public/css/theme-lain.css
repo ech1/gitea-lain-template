@@ -104,7 +104,7 @@ a {
   border-bottom-color: currentcolor;
   border-bottom-style: none;
   border-bottom-width: medium;
-  border-top: 1px solid rgb(13, 217, 25);
+  border-top: 1px solid rgb(237, 226, 31);
   background: 0 0;
   margin: 0;
   padding: 1em 1em;
@@ -159,7 +159,7 @@ a {
 
 .ui.card>.extra a:not(.ui):hover, .ui.cards>.card>.extra a:not(.ui):hover {
   color:
-    #1baf49;
+  #ede21f;
 }
 
 .user.profile .ui.card .extra.content ul li:not(:last-child) {
@@ -187,7 +187,7 @@ a {
   padding-bottom: .3em;
   font-size: 1.75em;
   line-height: 1.225;
-  border-bottom: 1px solid #44c90d !important;
+  border-bottom: 1px solid #ede21f !important;
 }
 
 .markdown:not(code) blockquote> :first-child {
@@ -424,17 +424,17 @@ a:hover {
 
 .ui.dropdown .menu .selected.item, .ui.dropdown.selected {
   background: rgba(30, 17, 20, .03);
-  color: #21ba45;
+  color: #ede21f;
 }
 
 .ui.selection.visible.dropdown>.text:not(.default) {
   font-weight: 400;
-  color: #21ba45;
+  color: #ede21f;
 }
 
 .ui.list .list>.item>.content, .ui.list>.item>.content {
   line-height: 1.14285714em;
-  color: #21ba45;
+  color: #ede21f;
 }
 
 .ui.form .field>label {
@@ -495,9 +495,9 @@ a:hover {
 
 .ui.form input:not([type]):focus, .ui.form input[type=date]:focus, .ui.form input[type=datetime-local]:focus, .ui.form input[type=email]:focus, .ui.form input[type=file]:focus, .ui.form input[type=number]:focus, .ui.form input[type=password]:focus, .ui.form input[type=search]:focus, .ui.form input[type=tel]:focus, .ui.form input[type=text]:focus, .ui.form input[type=time]:focus, .ui.form input[type=url]:focus {
   color: rgba(30, 17, 20, .95);
-  border-color: #85b7d9;
+  border-color: #BE8896;
   border-radius: .28571429rem;
-  background: #767676;
+  background: #874A5B;
   -webkit-box-shadow: 0 0 0 0 rgba(30, 17, 20, .35) inset;
   box-shadow: 0 0 0 0 rgba(30, 17, 20, .35) inset;
 }
@@ -875,7 +875,7 @@ a:hover {
 }
 
 .lines-code .hljs, .lines-code ol, .lines-code pre, .lines-num .hljs, .lines-num ol, .lines-num pre {
-  background-color: #d4d4d5;
+  background-color: #DBD9BD;
   margin: 0;
   padding: 0 !important;
 }
