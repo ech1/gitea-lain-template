@@ -31,7 +31,7 @@ for (var x = 0; x < columns; x++)
 function draw() {
     //Black BG for the canvas
     //translucent BG to show trail
-    ctx.fillStyle = "rgba(41, 22, 28, 0.04)";
+    ctx.fillStyle = "rgba(41, 22, 28, 0.12)";
     ctx.fillRect(0, 0, c.width, c.height);
 
     ctx.fillStyle = "#89864C"; // Gitea red
