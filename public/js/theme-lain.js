@@ -18,7 +18,7 @@ var matrix = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789@#$%^
 //converting the string into an array of single characters
 matrix = matrix.split("");
 
-var font_size = 10;
+var font_size = 15;
 var columns = c.width / font_size; //number of columns for the rain
 //an array of drops - one per column
 var drops = [];
@@ -31,10 +31,10 @@ for (var x = 0; x < columns; x++)
 function draw() {
     //Black BG for the canvas
     //translucent BG to show trail
-    ctx.fillStyle = "rgba(0, 0, 0, 0.04)";
+    ctx.fillStyle = "rgba(41, 22, 28, 0.04)";
     ctx.fillRect(0, 0, c.width, c.height);
 
-    ctx.fillStyle = "#5AA509"; // Gitea green
+    ctx.fillStyle = "#D1CC73"; // Gitea green
     //ctx.fillStyle = "red";
     ctx.font = font_size + "px arial";
     //looping over drops
