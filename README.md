@@ -2,15 +2,6 @@
 
 ## Previews:
 
-![preview 1](preview/homepage.png "Preview")
-
-![preview 2](preview/signedhomepage.png "Preview")
-
-![preview 3](preview/repopage1.png "Preview")
-
-![preview 4](preview/markdown.png "Preview")
-
-![preview 5](preview/profilepage.png "Preview")
 
 
 ## For Gitea Version ***1.12.x***
