@@ -57,4 +57,4 @@ function draw() {
     }
 }
 
-setInterval(draw, 20);
+setInterval(draw, 30);
