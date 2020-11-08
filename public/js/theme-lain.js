@@ -34,7 +34,7 @@ function draw() {
     ctx.fillStyle = "rgba(30, 16, 20, 0.12)";
     ctx.fillRect(0, 0, c.width, c.height);
 
-    ctx.fillStyle = "#424024"; // Gitea red
+    ctx.fillStyle = "#89864C"; // Gitea red
     //ctx.fillStyle = "red";
     ctx.font = font_size + "px arial";
     //looping over drops
